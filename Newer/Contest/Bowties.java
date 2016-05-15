@@ -1,3 +1,7 @@
+/*
+* UNUSED FILE - BOWTIES COMPLETED ON WCIPEG.com
+*/
+
 package Contest;
 
 import java.util.ArrayList;
