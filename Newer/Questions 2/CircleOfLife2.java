@@ -1,3 +1,13 @@
+/*
+* Finish: By next tuesday.
+* 
+* Ideas:
+* - period?
+* - use the rabbit and the turtle solution to find collision.
+*
+* FINISHED: On WCIPEG.
+*/
+
 package Questions;
 
 import java.util.Scanner;
